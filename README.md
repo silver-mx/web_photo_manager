@@ -1,4 +1,4 @@
-web_photo_manager
+Web photo manager
 =================
 
-Web application to help cataloging photos based on their properties
+Web application to help cataloging photos based on their dates of creation.
